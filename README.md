@@ -90,22 +90,26 @@ I'm continuing to deepen my knowledge in:
 
 ## 📊 GitHub
 
-More projects are currently being prepared and documented, including work in:
+### [Bitcoin vs Gold as Defensive Assets](https://github.com/Phuongmai0712/bitcoin-gold-safe-haven-analysis)
+GARCH-family volatility modelling, DCC correlations and portfolio optimisation under economic and geopolitical uncertainty.
 
-* Credit Risk Modelling
-* Fraud Detection
-* Financial Machine Learning
-* Quantitative Finance
-* Business Intelligence & Analytics
+### [Cost-Sensitive Payment Fraud Detection](https://github.com/Phuongmai0712/payment-fraud-cost-sensitive-ml)
+XGBoost, probability calibration and threshold optimisation where model selection is driven by financial cost.
 
-<!-- Add GitHub statistics here later once more repositories are uploaded.
-I recommend waiting so the statistics better represent your actual technical work. -->
+### [Credit Card Default Risk](https://github.com/Phuongmai0712/credit-card-default-risk)
+Credit-risk modelling with feature engineering, Random Forest, neural networks and threshold trade-offs.
+
+### [Machine Learning for Option Markets](https://github.com/Phuongmai0712/ml-option-pricing-iv-spread)
+Option pricing, implied volatility and bid-ask spread prediction using ML and finance-informed features.
+
+### [Airline Profitability Modelling](https://github.com/Phuongmai0712/direct_vs_component_airline_profitability)
+Comparison of direct vs component-based profit-margin prediction using regression and tree-based models.
 
 ---
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/phuong-mai-nguyen-fintech/) · [LeetCode](https://leetcode.com/u/usermy/) · [Email](mailto:mainp07121@gmai.com)
+[LinkedIn](https://www.linkedin.com/in/phuong-mai-nguyen-fintech/) · [LeetCode](https://leetcode.com/u/usermy/) · [Email](mailto:mainp07121@gmail.com)
 
 ---
 
